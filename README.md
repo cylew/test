@@ -1,2 +1,2 @@
 # test
-I'm testing GitHub now.
+I'm testing GitHub for fun.
